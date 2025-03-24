@@ -1,0 +1,7 @@
+.app-view {
+  height: 100%;
+}
+.view-content {
+  display: flex;
+  height: 100%;
+}
